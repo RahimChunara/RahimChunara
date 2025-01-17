@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimchunara&label=Profile%20views&color=0e75b6&style=flat" alt="rahimchunara" /> </p>
 
-- 🔭 I’m currently working on **Bus Transit Application**
+- 🔭 I’m currently working at **Owting**
 
-- 📝 I regularly write articles on [https://rahim.codes/](https://rahim.codes/)
+- 📝 I sometimes post my articles on [https://rahim.codes/](https://rahim.codes/)
 
-- 📫 How to reach me **rahimchunara50@gmail.com**
+- 📫 How to reach me **rahimchunarawork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
